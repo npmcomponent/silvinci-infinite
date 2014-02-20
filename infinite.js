@@ -2,10 +2,10 @@
  * Module dependencies.
  */
 
-var events = require("events")
-  , Emitter = require("emitter")
-  , bind = require("bind")
-  , throttle = require("throttle");
+var events = require('component-events')
+  , Emitter = require('component-emitter')
+  , bind = require('component-bind')
+  , throttle = require('matthewmueller-throttle');
 
 /**
  * Expose `Infinite`.

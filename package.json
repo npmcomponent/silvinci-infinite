@@ -1,0 +1,21 @@
+{
+  "name": "silvinci-infinite",
+  "description": "Scroll infinitely and get new content from a callback function",
+  "version": "0.2.0",
+  "keywords": [
+    "ui",
+    "scroll",
+    "scrolling",
+    "dom",
+    "ajax",
+    "lazy loading"
+  ],
+  "main": "infinite.js",
+  "dependencies": {
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "matthewmueller-throttle": "git://github.com/npmcomponent/matthewmueller-throttle.git"
+  },
+  "license": "MIT"
+}
